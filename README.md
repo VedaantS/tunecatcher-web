@@ -1,2 +1,2 @@
 # tunecatcher
- A free music-streaming app.  
+ A free streaming app. 
