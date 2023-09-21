@@ -27,6 +27,16 @@ I'm a sixteen-year-old who develops this late at night after doing schoolwork an
 
 In the next couple days, I'll try to get everything off the ground, and there'll probably be a lot of bug fixes. Let's see where to go from there. 
 
+## What platforms are we looking at? 
+
+My vision is 
+- Web
+- Desktop -- MacOS/Windows/Linux(?)
+- iOS App
+- Android App
+
+So far, we got two, and two to go.
+
 ## What is TuneCatcher Studio? 
 
 Go check it out. 
