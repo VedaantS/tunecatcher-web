@@ -3,7 +3,7 @@ so that music doesn't have to be hoarded behind a paywall.
 
 ## Why did I create TuneCatcher? 
 
-Because companies like Spotify and Apple Music are unfairly charging consumers hundreds of dollars per annum to listen to music, when there are possible sustainable business models which allow for free music (without interrupting the viewer every five minutes with ads, like Spotify Free). 
+Because companies like Spotify and Apple Music are unfairly charging consumers hundreds of dollars per annum to listen to music, when there exist  sustainable business models which allow for free music (without interrupting the viewer every five minutes with ads, like Spotify Free). 
 
 Think of this as the efforts of one music-loving sixteen-year-old to make the world a better place for listeners throughout the world -- especially those who can't afford fancy subscriptions.
 
