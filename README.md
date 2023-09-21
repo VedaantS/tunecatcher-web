@@ -1,6 +1,16 @@
 # tunecatcher
 so that music doesn't have to be hoarded behind a paywall. 
 
+# Build Instructions
+
+<code>
+git clone https://github.com/VedaantS/tunecatcher.git
+cd tunecatcher
+npm install
+npm run dev
+</code>
+
+# FAQs
 ## Why did I create TuneCatcher? 
 
 Because companies like Spotify and Apple Music are unfairly charging consumers hundreds of dollars per annum to listen to music, when there exist  sustainable business models which allow for free music (without interrupting the viewer every five minutes with ads, like Spotify Free). This duopoly, which remains unchallenged in the US, has forced prices up and imposed the unnecessary burden of a 'music subscription' upon any music-loving Americans. 
@@ -40,3 +50,5 @@ So far, we got two, and two to go.
 ## What is TuneCatcher Studio? 
 
 Go check it out. 
+
+
