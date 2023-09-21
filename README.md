@@ -3,8 +3,7 @@ so that music doesn't have to be hoarded behind a paywall.
 
 # Build Instructions
 
-<code>
-git clone https://github.com/VedaantS/tunecatcher.git
+<code>git clone https://github.com/VedaantS/tunecatcher.git
 cd tunecatcher
 npm install
 npm run dev
