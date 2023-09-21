@@ -9,7 +9,7 @@ Think of this as the efforts of one music-loving sixteen-year-old to make the wo
 
 ## But aren't there other apps like this? 
 
-Yes, but everything I've come across has a glaring flaw. Some (Nuclear, for example) are ugly, others (like Audius) only have a limited selection of music. I also don't like Audius's whole crypto thing -- I just want to listen to the music. 
+Yes, but everything I've come across has a glaring flaw. Some (Nuclear, for example) are ugly, others (like Audius) only have a limited selection of music. I also don't like Audius's whole crypto thing -- I just want to listen to the song, ffs. 
 
 Soundcloud, Spotify and the like care more about their profits than their consumers, and I've listed my reservations with both paywalls and ad-based models above. 
 
