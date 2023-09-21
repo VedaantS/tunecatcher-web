@@ -19,7 +19,7 @@ Other apps have been blacklisted from app stores, mostly because they source the
 
 Well, TuneCatcher actually *does* support the artists who you listen to. The content from TuneCatcher is essentially taken from the JioSaavn API, JioSaavn being an Indian music service. Since Jio pays all appropriate dues, your listening is indeed supporting artists (or, more likely, to record companies -- but that's a different story). 
 
-Also, listening to Spotify is definitely not supporting artists either -- Spotify is a ruthlessly exploitative company, and this is no secret in the music world. 
+Also, listening to Spotify is definitely not supporting artists either -- Spotify ruthlessly exploits artists, as has been well-documented. 
 
 ## Why is \*insert feature\* so shitty? 
 
